@@ -1,0 +1,75 @@
+@charset "utf-8";
+/* CSS Document */
+
+body	{	font-family: 'PT Sans', sans-serif;
+			font-size:12px;
+			color:#333;
+			margin:0;
+			padding:0;	}
+			
+.top_blu_line	{	height:7px; background:#2583aa;	 }
+
+/*
+font-family: 'PT Sans', sans-serif;
+font-family: 'PT Sans Narrow', sans-serif;
+font-family: 'PT Sans Caption', sans-serif;
+ */
+
+#main_div	{	width:1000px; margin:0 auto; }
+
+.clear	{	clear:both;	}
+
+#main_top	{	margin:28px 0; border-bottom: 3px #333 solid; 	}
+
+.top_left	{	width:300px; float:left; text-align:center; }
+.top_mid	{	width:500px; float:left; line-height:28px;}
+.top_right	{	width:200px; float:left;}
+
+.top_title1	{	color:#0f70a2; font-size:48px; font-weight:bold;		}
+.top_title2	{	color:#000; font-size:30px; 		}
+
+.top_link	{ margin-top:55px; text-align: right; }
+.top_link a	{ color:#000; font-size:14px; text-decoration:none;	}	
+.top_link a:hover	{ color:#ccc; text-decoration:underline;	}
+
+.body_left	{	height:auto width:200px; float:left;	}
+
+.body_mid	{	width:480px; float:left; margin-left:15px;	}
+
+.body_right	{	width:300px; float:left; margin-left:5px;	}
+
+.title1		{	font-size:14px; color:#333; font-weight:bold;	}
+
+.radio_1	{	width:160px; float:left;}
+
+.ra_tex1	{	font-size:14px; color:#666;	}
+.ra_tex2	{	font-size:11px; font-style:italic; color:#999;}
+
+.serch_left		{	width:350px; float:left; }
+.serch_right 	{	width:120px; float:left; margin-left:10px;}
+
+.serch_left input		{	width:348px; border:1px solid #ccc; padding:10px 0;	 }
+.serch_right input		{	width:100%; background:#2e85c9; border:none; color:#fff; padding:10px 0;}
+
+#get_box	{	margin:5px 0; }
+
+.get_boxleft	{	width:70px; float:left;		}
+.get_boxright	{	width:394px; float:left; margin-left:10px; border-left:1px solid #ccc; padding-left:5px;	}
+
+#get_box2	{	margin:15px 0; }
+
+.get_boxleft	{	width:150px; float:left;		}
+.get_boxright	{	width:314px; float:left; margin-left:10px; border-left:1px solid #ccc; padding-left:5px;	}
+
+
+.discription	{	font-size:12px; text-align:justify;	}
+
+.img_preview	{	margin-top:10px;	}
+
+#main_bottom	{	text-align:center; margin-top:20px; padding:15px 0; background:#0b5472; font-size:11px; color:#ccc;	}
+
+
+.test{ height:auto; width:auto}
+
+
+
